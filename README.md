@@ -1,5 +1,3 @@
-# ozad2013.github.io
-<!DOCTYPE html>
 <html>
 <head>
         <title>My Portfolio</title>
