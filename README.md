@@ -31,7 +31,7 @@
 
         <section id="about">
                 <h2>About Me</h2>
-                <p>Mansi Bordia born and brought up in Jaipur India. Project Engineer</p>
+                <p>Mansi Bordia born and brought up in Jaipur India. I come with 10+ years of experience in a Construction Industry where I have managed different projects from small to large in Resedential, Restaurants, and Health Care. I am truly passionate about Architecture and Interir Designs....</p>
                 <img src="your-image.jpg" alt="Your Image">
         </section>
 
